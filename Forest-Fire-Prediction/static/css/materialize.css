@@ -1094,9 +1094,7 @@
 .green {
   background-color: #4CAF50 !important;
 }
-.black {
-  background-color: #000000 !important;
-}
+
 .green-text {
   color: #4CAF50 !important;
 }
@@ -1107,6 +1105,15 @@
 
 .green-text.text-lighten-5 {
   color: #E8F5E9 !important;
+}
+
+.Red{
+  color:red;
+}
+.pred{
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+  
 }
 
 .green.lighten-4 {
