@@ -14,7 +14,7 @@ Our  Project  aims  to  build  a  forest  fire  prediction  system  which  will 
 # Group members: 
  - [@Vikas Chaurasiya](https://github.com/vikas-348)
  - [@Mukesh Gupta](https://github.com/mukesh2001)
- - [@Ashly Jonh](https://github.com/ADJ46)
+ - [@Ashly John](https://github.com/ADJ46)
  - [@Himanshu Chaurasiya](https://github.com/Himanshuchaurasiya1234)
 
 # Architectural Details: 
@@ -65,5 +65,5 @@ We  have  split  the  train  and  test  model  into  a  ratio  of  60:40  and  t
 - However,  this  work  opens  room  for  the  development  of  automatic  tools  for  fire  management  support.  Since  the  FMS  system  is  widely  used  around  the  world,  further  research  is  need  to  confirm  if  direct  weather  conditions  are  preferable  than accumulated values  as suggested by this study. 
 
 # Documentations:
-  - [Project PPT](https://github.com/vikas-348/Forest-Fire-Prediction-System/blob/main/Documents/Forest%20Fire%20Prediction%20Presentation.pptx)
-  - [Project Report](https://github.com/vikas-348/Forest-Fire-Prediction-System/blob/main/Documents/Forest%20Fire%20Prediction%20Final%20Report.docx)
+  - [Project PPT](Documents/Forest Fire Prediction Presentation.pptx)
+  - [Project Report](Documents/Forest Fire Prediction Final Report.docx)
