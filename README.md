@@ -65,5 +65,5 @@ We  have  split  the  train  and  test  model  into  a  ratio  of  60:40  and  t
 - However,  this  work  opens  room  for  the  development  of  automatic  tools  for  fire  management  support.  Since  the  FMS  system  is  widely  used  around  the  world,  further  research  is  need  to  confirm  if  direct  weather  conditions  are  preferable  than accumulated values  as suggested by this study. 
 
 # Documentations:
-  - [Project PPT](Documents/Forest Fire Prediction Presentation.pptx)
-  - [Project Report](Documents/Forest Fire Prediction Final Report.docx)
+  - [Project PPT](https://github.com/ADJ46/Mlminiprj/blob/d03c2de5fe3d8b87dfe6c91f112aebe5decfeed1/Documents/Forest%20Fire%20Prediction%20Final%20Report.docx)
+  - [Project Report](https://github.com/ADJ46/Mlminiprj/blob/d03c2de5fe3d8b87dfe6c91f112aebe5decfeed1/Documents/Forest%20Fire%20Prediction%20Final%20Report.docx)
